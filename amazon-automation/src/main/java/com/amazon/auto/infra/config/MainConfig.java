@@ -4,6 +4,8 @@ import java.io.FileInputStream;
 import java.io.InputStream;
 import java.util.Properties;
 
+
+//test
 public class MainConfig {
 
 	public static String browserType;
