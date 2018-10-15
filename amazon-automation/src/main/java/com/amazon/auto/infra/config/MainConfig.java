@@ -6,6 +6,7 @@ import java.util.Properties;
 
 
 //test
+
 public class MainConfig {
 
 	public static String browserType;
