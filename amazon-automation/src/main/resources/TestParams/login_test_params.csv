@@ -1,0 +1,3 @@
+email,password,expected_result
+lena.blue11@gmail.com,Qa1234567,VERIFICATION_CODE
+lena.blue11@gmail.com,Qa12345678,THERE_WAS_A_PROBLEM
